@@ -23,7 +23,7 @@ def literal_aoh
   # held in the constants
  
   aoh = [
-      {:name => "Don Gately,",
+      {:name => "Don Gately",
        :occupation => "Live-in Staff"},
        
        {
