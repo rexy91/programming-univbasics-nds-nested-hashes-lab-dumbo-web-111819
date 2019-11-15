@@ -35,7 +35,12 @@ def literal_aoh
          :occupation => "Staff"
        },
        {
-         :name => Kate Gompert"
+         :name => "Kate Gompert",
+         :occupation => "None"
+       },
+       {
+         :name => "Bruce Green",
+         :occupation => "Fan of Mildred"
        }
     ]
     
