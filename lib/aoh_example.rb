@@ -21,7 +21,7 @@ end
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
-  Array[row][:column]
+  array[0][:name]
   
   array = [
     { name:"Don Gately", occupation: "Live-in Staff" },
